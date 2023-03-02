@@ -23,3 +23,4 @@
 - Example: “Wi-Fi en0” which is the `interface for Wi-Fi access`. 
 
 ### Five major components in Wireshark interface 
+![Screen Shot 2023-03-02 at 2 22 29 PM](https://user-images.githubusercontent.com/75557717/222572975-fc6ceb81-7aef-4f15-bc69-a757bd84ba72.png)
