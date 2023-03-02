@@ -29,3 +29,4 @@
 1. While Wireshark is running, enter the URL into browser: http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html
 
 2. Filter `http`:
+![Screen Shot 2023-03-02 at 2 42 44 PM](https://user-images.githubusercontent.com/75557717/222576441-75ffa8ca-cbc2-46fd-a7ab-1cf08c2cdf13.png)
