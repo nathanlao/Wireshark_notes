@@ -30,3 +30,8 @@
 
 2. Filter `http`:
 ![Screen Shot 2023-03-02 at 2 42 44 PM](https://user-images.githubusercontent.com/75557717/222576441-75ffa8ca-cbc2-46fd-a7ab-1cf08c2cdf13.png)
+
+- Details: content for the `Hypertext Transfer Protocol application message` 
+    - found within the `TCP segment`
+        - inside the `IPv4 datagram` 
+            - inside the `Ethernet II (WiFi) frame`.
